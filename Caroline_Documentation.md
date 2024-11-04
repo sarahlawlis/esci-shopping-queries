@@ -10,10 +10,10 @@ Sources Dataset (shopping_queries_dataset_sources.csv)
 The examples and products datasets are merged on product locale and ID, retaining U.S. locale data only
 3. Encoding labels
 To perform multi-classification, we map the the Exact, Substitute, Classification, and Irrelevant to corresponding numbers
-E -> 0
-S -> 1
-C -> 2
-I -> 3
+- E -> 0
+- S -> 1
+- C -> 2
+- I -> 3
 
 ## Embeddings 
 Used the distilroberta-base, a distilled version of the RoBERTa-base model. The model has 6 layers, 768 dimensions and 12 heads , totalizing 82M parameters. 
