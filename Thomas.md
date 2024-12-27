@@ -29,3 +29,9 @@ Using the SpellChecker function, which uses a Levenshtein Distance algorithm to 
 What we found was even amongst the least frequent words, there doesn't appear to be very many, if any, common misspellings. Most of what appeared in this list are either acronyms for types or brands of products (dns, oled, dna, qled) or simply items that don't get searched for often (lifejackets, pashminas, paracord). At this point, we consider this to be adequate for model training without removal of specific list items. 
 
 ### Step 2: Model Building
+
+
+
+
+
+
