@@ -45,3 +45,6 @@ QuerySquirrel installation instructions here
  Fill this out with your name and add an optional link
 
  [Sarah Lawlis](https://www.linkedin.com/in/sarah-lawlis/)
+
+ Testing git ruleset
+ 
