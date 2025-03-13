@@ -1,2 +1,4 @@
 *.parquet filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
+data/df_golden.csv filter=lfs diff=lfs merge=lfs -text
+ filter=lfs diff=lfs merge=lfs -text
